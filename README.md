@@ -7,7 +7,7 @@ I'm a Frontend Developer (React.js) with a keen eye for design and a deep unders
 
 
 ## 🛠 Skills
-Html , CSS , Bootstrap , Tailwind , Javascript , React.js, Next.js.
+Html , CSS , Bootstrap , Tailwind , Javascript , React.js , Next.js.
 
 
 ## 🔗 Links
